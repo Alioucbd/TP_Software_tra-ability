@@ -1,0 +1,4 @@
+[
+{ "user": { "id": 4, "name": "Chanez", "email": "Chanez-ferred@gmail.com", "age": 24 }, "mostExpensiveProduct": { "id": 9, "name": "P9", "expirationDate": "30/12/23", "price": 2499 } },
+{ "user": { "id": 3, "name": "Salim", "email": "pat.dupont@gmail.com", "age": 46 }, "mostExpensiveProduct": { "id": 7, "name": "P7u", "expirationDate": "30/12/23", "price": 900 } },
+]
